@@ -30,6 +30,7 @@ npm run start
 ```
 
 ## Usage
+![image](https://github.com/rajkdh/social.network.api/assets/112664790/aa7e432a-6f6d-490c-9ad0-cbdd3fb2eed3)
 
 <br>
 <br>
@@ -38,7 +39,8 @@ npm run start
 
 
 ## Credit
-N/A
+* mongoose
+* express
 
 ## License
     
